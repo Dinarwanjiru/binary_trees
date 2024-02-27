@@ -4,8 +4,8 @@
 /**
  * binary_tree_inorder - Goes through a binary tree using in-order traversal
  * @tree: Pointer to the root node of the tree to traverse
- * @func: Pointer to a function to call for each node.
- * 	The value in the node must be passed as a parameter to this function.
+ * @func: Pointer to a function to call for each node. The value in the node
+ * must be passed as a parameter to this function.
  *
  * Description: If tree or func is NULL, do nothing.
  */
